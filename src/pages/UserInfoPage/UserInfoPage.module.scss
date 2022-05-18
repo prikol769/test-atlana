@@ -1,0 +1,27 @@
+.UserInfoPage {
+  padding: 60px 100px;
+  text-align: center;
+}
+
+.InfoWrapper {
+  display: flex;
+  justify-content: center;
+  margin: 16px 0;
+}
+
+.InfoContainer {
+  text-align: left;
+
+  span {
+    font-weight: 600;
+  }
+
+  p + p {
+    margin-top: 11px
+  }
+}
+
+.Avatar {
+  height: 250px;
+  margin-right: 30px;
+}

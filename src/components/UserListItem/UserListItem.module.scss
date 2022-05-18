@@ -1,0 +1,15 @@
+.UserListItem {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #000;
+  height: 75px;
+  padding: 5px 16px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #000;
+}
+
+.Avatar {
+    height: 100%;
+    margin-right: 10%;
+}
